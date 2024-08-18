@@ -1,0 +1,5 @@
+The steps to run the app on google chrome (or any browser):
+1) Using cmd, enter the file path/location for roommate-finder
+2) Write the command "node server.js"
+3) Open another cmd window, then enter the file path/location for roommate-finder-client
+4) Write the command "npm start"
